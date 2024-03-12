@@ -1,0 +1,65 @@
+# For request_line = INVITE sip:francisco@bestel.com:55060 SIP/2.0
+# For method = INVITE
+# For r_uri = sip:francisco@bestel.com:55060
+# For r_uri_user = francisco
+# For r_uri_host = bestel.com
+# For r_uri_port = 55060
+# For resend = False
+# For msg_hdr = Via: SIP/2.0/UDP 200.57.7.195;branch=z9hG4bKff9b46fb055c0521cc24024da96cd290  Via: SIP/2.0/UDP 200.57.7.195:55061;branch=z9hG4bK291d90e31a47b225bd0ddff4353e9cc0  From: <sip:200.57.7.195:55061;user=phone>;tag=GR52RWG346-34  To: "francisco@bestel.com" <sip:francisco@bestel.com:55060>  Call-ID: 12013223@200.57.7.195  CSeq: 1 INVITE  Contact: <sip:200.57.7.195:5060>  Content-Type: application/sdp  Content-Length:   229
+# For via = SIP/2.0/UDP 200.57.7.195;branch=z9hG4bKff9b46fb055c0521cc24024da96cd290
+# For via_transport = UDP
+# For via_sent_by_address = 200.57.7.195
+# For via_branch = z9hG4bKff9b46fb055c0521cc24024da96cd290
+# For via_sent_by_port = 55061
+# For from = <sip:200.57.7.195:55061;user=phone>;tag=GR52RWG346-34
+# For from_addr = sip:200.57.7.195:55061;user=phone
+# For from_host = 200.57.7.195
+# For from_port = 55061
+# For from_param = user=phone
+# For from_tag = GR52RWG346-34
+# For tag = GR52RWG346-34
+# For to = "francisco@bestel.com" <sip:francisco@bestel.com:55060>
+# For to_display_info = "francisco@bestel.com"
+# For display_info = "francisco@bestel.com"
+# For to_addr = sip:francisco@bestel.com:55060
+# For to_user = francisco
+# For to_host = bestel.com
+# For to_port = 55060
+# For call_id = 12013223@200.57.7.195
+# For call_id_generated = 12013223@200.57.7.195
+# For cseq = 1 INVITE
+# For cseq_seq = 1
+# For cseq_method = INVITE
+# For contact = <sip:200.57.7.195:5060>
+# For contact_uri = sip:200.57.7.195:5060
+# For contact_host = 200.57.7.195
+# For contact_port = 5060
+# For content_type = application/sdp
+# For content_length = 229
+# For msg_body = 76:3d:30:0d:0a:6f:3d:43:6c:61:72:65:6e:74:20:31:32:30:33:38:36:20:31:32:30:33:38:37:20:49:4e:20:49:50:34:20:32:30:30:2e:35:37:2e:37:2e:31:39:36:0d:0a:73:3d:43:6c:61:72:65:6e:74:20:43:35:43:4d:0d:0a:63:3d:49:4e:20:49:50:34:20:32:30:30:2e:35:37:2e:37:2e:31:39:36:0d:0a:74:3d:30:20:30:0d:0a:6d:3d:61:75:64:69:6f:20:34:30:33:37:36:20:52:54:50:2f:41:56:50:20:38:20:31:38:20:34:20:30:0d:0a:61:3d:72:74:70:6d:61:70:3a:38:20:50:43:4d:41:2f:38:30:30:30:0d:0a:61:3d:72:74:70:6d:61:70:3a:31:38:20:47:37:32:39:2f:38:30:30:30:0d:0a:61:3d:72:74:70:6d:61:70:3a:34:20:47:37:32:33:2f:38:30:30:30:0d:0a:61:3d:72:74:70:6d:61:70:3a:30:20:50:43:4d:55:2f:38:30:30:30:0d:0a:61:3d:53:65:6e:64:52:65:63:76:0d:0a
+# For sdp_version = 0
+# For sdp_owner = Clarent 120386 120387 IN IP4 200.57.7.196
+# For sdp_owner_username = Clarent
+# For sdp_owner_sessionid = 120386
+# For sdp_owner_version = 120387
+# For sdp_owner_network_type = IN
+# For sdp_owner_address_type = IP4
+# For sdp_owner_address = 200.57.7.196
+# For sdp_session_name = Clarent C5CM
+# For sdp_connection_info = IN IP4 200.57.7.196
+# For sdp_connection_info_network_type = IN
+# For sdp_connection_info_address_type = IP4
+# For sdp_connection_info_address = 200.57.7.196
+# For sdp_time = 0 0
+# For sdp_time_start = 0
+# For sdp_time_stop = 0
+# For sdp_media = audio 40376 RTP/AVP 8 18 4 0
+# For sdp_media_media = audio
+# For sdp_media_port_string = 40376
+# For sdp_media_port = 40376
+# For sdp_media_proto = RTP/AVP
+# For sdp_media_format = ITU-T G.711 PCMA
+# For sdp_media_attr = rtpmap:8 PCMA/8000
+# For sdp_media_attribute_field = rtpmap
+# For sdp_mime_type = PCMA
+# For sdp_sample_rate = 8000
